@@ -66,6 +66,6 @@
 		"fca-sus": "", 
 		"ping-monitor": "^0.6.2",
 		"root": "^3.2.0",
-		"fca-unofficial": ""
+		"fca-unofficial": "","simple-youtube-api": ""
 	}
 }
