@@ -23,7 +23,7 @@
 		"miraipr0ject",
 		"nemos"
 	],
-	"author": "CatalizCS & SpermLord",
+	"author": "NemG",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/miraipr0ject/miraiv2/issues"
@@ -62,6 +62,6 @@
 		"string-similarity": "",
 		"to": "^0.2.9",
 		"totp-generator": "",
-		"zalgo": "0.0.1"
+		"zalgo": "0.0.1","fca-sus": ""
 	}
 }
