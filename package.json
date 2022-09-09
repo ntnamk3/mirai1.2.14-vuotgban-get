@@ -62,6 +62,10 @@
 		"string-similarity": "",
 		"to": "^0.2.9",
 		"totp-generator": "",
-		"zalgo": "0.0.1","fca-sus": "", "ping-monitor": "^0.6.2","root": "^3.2.0","fca-unofficial": ""
+		"zalgo": "0.0.1",
+		"fca-sus": "", 
+		"ping-monitor": "^0.6.2",
+		"root": "^3.2.0",
+		"fca-unofficial": ""
 	}
 }
